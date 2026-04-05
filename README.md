@@ -17,7 +17,7 @@
   <a href="https://jjq7.github.io">Homepage</a> ·
   <a href="https://scholar.google.com/citations?user=nRJGO2MAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/jingqi-jiang-3550b8336/">LinkedIn</a> ·
-  <a href="mailto:your_email_here">Email</a>
+  <a href="mailto:jiangjingqi7@gmail.com">Email</a>
 </p>
 
 ---
